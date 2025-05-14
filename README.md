@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm **Yeshu Puri**, a Computer Science graduate from Aston University (UK) with a passion for building **automated solutions** that simplify real-world problems.
+Hi there! I'm **Yeshu Puri**, a Computer Science graduate from Aston University (UK) with a passion for building **automated solutions** that simplify real-world problems. I hold a U.S. Green Card and am actively exploring opportunities in software engineering and tech consulting roles.
 
 While studying, I explored programming through hands-on projects in **Python**, **Java**, and **C++**. My final-year project tackled misinformation with a secure, user-authenticated web platform. Since then, I’ve been diving deeper into **automation** using **UiPath** and scripting workflows to streamline business processes.
 
